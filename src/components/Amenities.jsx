@@ -20,7 +20,7 @@ const Amenities = () => (
       <div className="bg-white p-4 shadow-md">
         <h4 className="font-bold  text-black">Espacio recreativo</h4>
         <img src={piletita} alt="" />
-        <p>Disfruta y relagate en nuestro espacio recreativo.</p>
+        <p>Disfruta y relajate en nuestro espacio recreativo.</p>
       </div>
     </div>
   </section>
